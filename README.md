@@ -5,6 +5,9 @@ Each service is located in a separate folder inside `src/` with its own document
 
 src/
 │
+├── problem4/
+│ ├── README.md ← Three ways to sum to n
+│ └── index.ts
 ├── problem5/
 │ ├── README.md ← CRUD API (Items management)
 │ └── (code files)

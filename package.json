@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "problem4": "ts-node src/problem4/index.ts",
     "problem5-dev": "ts-node-dev src/problem5/index.ts",
     "problem5-build": "tsc",
     "problem5-start": "node dist/problem5/index.js"

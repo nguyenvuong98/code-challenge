@@ -26,7 +26,7 @@ src/problem5/
     1️⃣ Install dependencies:
         npm install
 
-    2️⃣ Create .env file and copy content from .env.example
+    2️⃣ Create .env file and copy content from .env.example, replace MONGO_URI by your database string.
 
     3️⃣ Run project:
         npm run problem5
